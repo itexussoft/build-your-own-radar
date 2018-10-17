@@ -26,15 +26,17 @@
   }
 
   .input-sheet__banner {
-    background-image: url('/images/tech-radar-landing-page-wide.png');
+    background-image: url('/images/big-itexus.png'), url('/images/top-bg.jpg');
+    //background-image: url('/images/tech-radar-landing-page-wide.png');
     background-repeat: no-repeat;
-    background-color: $grey-light;
+    //background-color: $grey-light;
+    background-color: #2a3d4e;
     background-size: cover;
     background-position: center;
     width: 100%;
     margin: 0 auto;
     text-align: center;
-    min-height: 285px;
+    min-height: 420px;
     display: table;
 
     div {
