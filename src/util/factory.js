@@ -186,7 +186,7 @@ const GoogleSheetInput = function () {
 
             plotLogo(content);
 
-            var bannerText = '<div><h1>Itexus Technologies Radar</h1><p>You can build you own radar by visiting <a href ="https://www.thoughtworks.com/radar/byor">ThoughtWorks</a>.</p></div>';
+            var bannerText = '<div><h1>Itexus Technology Radar</h1><p>You can build you own radar by visiting <a href ="https://www.thoughtworks.com/radar/byor">ThoughtWorks</a>.</p></div>';
 
             plotBanner(content, bannerText);
 
